@@ -1,0 +1,291 @@
+# depslib dependency file v1.0
+1409787732 source:/media/rodrigo/Data/Rodrigo/Dropbox/Projects/Disciplinas/CG/CG/src/01_quad.cpp
+	<stdio.h>
+	<GL/glut.h>
+
+1368290960 /media/rodrigo/Data/Rodrigo/Dropbox/Projects/Disciplinas/CG/CG/include/GL/glut.h
+	"freeglut_std.h"
+
+1368290960 /media/rodrigo/Data/Rodrigo/Dropbox/Projects/Disciplinas/CG/CG/include/GL/freeglut_std.h
+	<windows.h>
+	<OpenGL/gl.h>
+	<OpenGL/glu.h>
+	<GL/gl.h>
+	<GL/glu.h>
+	<stdlib.h>
+
+1427408533 source:/home/allan/Documentos/Projects/CG/src/01_quad.cpp
+	<stdio.h>
+	<GL/glut.h>
+	"Grid.h"
+
+1368290960 /home/allan/Documentos/Projects/CG/include/GL/glut.h
+	"freeglut_std.h"
+
+1368290960 /home/allan/Documentos/Projects/CG/include/GL/freeglut_std.h
+	<windows.h>
+	<OpenGL/gl.h>
+	<OpenGL/glu.h>
+	<GL/gl.h>
+	<GL/glu.h>
+	<stdlib.h>
+
+1427408297 source:/home/allan/Documentos/Projects/CG/src/Point.cpp
+	"Point.h"
+
+1427408130 /home/allan/Documentos/Projects/CG/src/header/Point.h
+	<GL/glut.h>
+
+1427408001 source:/home/allan/Documentos/Projects/CG/src/Triangle.cpp
+	"Triangle.h"
+
+1427402186 /home/allan/Documentos/Projects/CG/src/header/Triangle.h
+	"Point.h"
+
+1427381145 source:/media/41522351876/SAMSUNG/Dados/Faculdade/CG/src/01_quad.cpp
+	<stdio.h>
+	<GL/glut.h>
+	"Point.h"
+
+1368290960 /media/41522351876/SAMSUNG/Dados/Faculdade/CG/include/GL/glut.h
+	"freeglut_std.h"
+
+1368290960 /media/41522351876/SAMSUNG/Dados/Faculdade/CG/include/GL/freeglut_std.h
+	<windows.h>
+	<OpenGL/gl.h>
+	<OpenGL/glu.h>
+	<GL/gl.h>
+	<GL/glu.h>
+	<stdlib.h>
+
+1427382649 /media/41522351876/SAMSUNG/Dados/Faculdade/CG/src/header/Point.h
+	<GL/glut.h>
+
+1427381252 source:/media/41522351876/SAMSUNG/Dados/Faculdade/CG/src/Point.cpp
+	"Point.h"
+
+1427382680 source:/media/41522351876/SAMSUNG/Dados/Faculdade/CG/src/Triangle.cpp
+	"Triangle.h"
+
+1427385271 /media/41522351876/SAMSUNG/Dados/Faculdade/CG/src/header/Triangle.h
+	"Point.h"
+
+1427403173 source:/home/41522351876/Área de Trabalho/CG/src/01_quad.cpp
+	<stdio.h>
+	<GL/glut.h>
+	"Grid.h"
+
+1368290960 /home/41522351876/Área de Trabalho/CG/include/GL/glut.h
+	"freeglut_std.h"
+
+1368290960 /home/41522351876/Área de Trabalho/CG/include/GL/freeglut_std.h
+	<windows.h>
+	<OpenGL/gl.h>
+	<OpenGL/glu.h>
+	<GL/gl.h>
+	<GL/glu.h>
+	<stdlib.h>
+
+1427382649 /home/41522351876/Área de Trabalho/CG/src/header/Point.h
+	<GL/glut.h>
+
+1427381252 source:/home/41522351876/Área de Trabalho/CG/src/Point.cpp
+	"Point.h"
+
+1427402235 source:/home/41522351876/Área de Trabalho/CG/src/Triangle.cpp
+	"Triangle.h"
+
+1427402186 /home/41522351876/Área de Trabalho/CG/src/header/Triangle.h
+	"Point.h"
+
+1427403098 source:/home/41522351876/Área de Trabalho/CG/src/Grid.cpp
+	"Grid.h"
+
+1427403073 /home/41522351876/Área de Trabalho/CG/src/header/Grid.h
+	"Triangle.h"
+
+1427408065 /home/allan/Documentos/Projects/CG/src/header/Grid.h
+	"Triangle.h"
+
+1427408311 source:/home/allan/Documentos/Projects/CG/src/Grid.cpp
+	"Grid.h"
+	<iostream>
+	<cmath>
+
+1427408620 source:/media/allan/SAMSUNG/Dados/Faculdade/CG2/CG/src/01_quad.cpp
+	<stdio.h>
+	<GL/glut.h>
+	"Grid.h"
+
+1368290960 /media/allan/SAMSUNG/Dados/Faculdade/CG2/CG/include/GL/glut.h
+	"freeglut_std.h"
+
+1368290960 /media/allan/SAMSUNG/Dados/Faculdade/CG2/CG/include/GL/freeglut_std.h
+	<windows.h>
+	<OpenGL/gl.h>
+	<OpenGL/glu.h>
+	<GL/gl.h>
+	<GL/glu.h>
+	<stdlib.h>
+
+1427408065 /media/allan/SAMSUNG/Dados/Faculdade/CG2/CG/src/header/Grid.h
+	"Triangle.h"
+
+1427402186 /media/allan/SAMSUNG/Dados/Faculdade/CG2/CG/src/header/Triangle.h
+	"Point.h"
+
+1427408130 /media/allan/SAMSUNG/Dados/Faculdade/CG2/CG/src/header/Point.h
+	<GL/glut.h>
+
+1427408311 source:/media/allan/SAMSUNG/Dados/Faculdade/CG2/CG/src/Grid.cpp
+	"Grid.h"
+	<iostream>
+	<cmath>
+
+1427408297 source:/media/allan/SAMSUNG/Dados/Faculdade/CG2/CG/src/Point.cpp
+	"Point.h"
+
+1427408001 source:/media/allan/SAMSUNG/Dados/Faculdade/CG2/CG/src/Triangle.cpp
+	"Triangle.h"
+
+1427754369 source:/home/allan/Dropbox/Faculdade/CG_v2/src/Point.cpp
+	"Point.h"
+
+1427754161 /home/allan/Dropbox/Faculdade/CG_v2/src/header/Point.h
+	<GL/glut.h>
+
+1368290960 /home/allan/Dropbox/Faculdade/CG_v2/include/GL/glut.h
+	"freeglut_std.h"
+
+1368290960 /home/allan/Dropbox/Faculdade/CG_v2/include/GL/freeglut_std.h
+	<windows.h>
+	<OpenGL/gl.h>
+	<OpenGL/glu.h>
+	<GL/gl.h>
+	<GL/glu.h>
+	<stdlib.h>
+
+1427408002 source:/home/allan/Dropbox/Faculdade/CG_v2/src/Triangle.cpp
+	"Triangle.h"
+
+1427402186 /home/allan/Dropbox/Faculdade/CG_v2/src/header/Triangle.h
+	"Point.h"
+
+1427759121 source:/home/allan/Dropbox/Faculdade/CG_v2/src/01_quad.cpp
+	<stdio.h>
+	<GL/glut.h>
+	<cmath>
+	"Grid.h"
+
+1427755339 /home/allan/Dropbox/Faculdade/CG_v2/src/header/Grid.h
+	"Triangle.h"
+
+1427756819 source:/home/allan/Dropbox/Faculdade/CG_v2/src/Grid.cpp
+	"Grid.h"
+	<iostream>
+	<cmath>
+
+1429040579 source:/home/41522351876/Área de Trabalho/CG_v2/src/Grid.cpp
+	"Grid.h"
+	<iostream>
+	<cmath>
+
+1429040618 /home/41522351876/Área de Trabalho/CG_v2/src/header/Grid.h
+	"Triangle.h"
+	"Point.h"
+
+1428609956 /home/41522351876/Área de Trabalho/CG_v2/src/header/Triangle.h
+	"Point.h"
+
+1429040602 /home/41522351876/Área de Trabalho/CG_v2/src/header/Point.h
+	<GL/glut.h>
+
+1428349375 /home/41522351876/Área de Trabalho/CG_v2/include/GL/glut.h
+	"freeglut_std.h"
+
+1428349375 /home/41522351876/Área de Trabalho/CG_v2/include/GL/freeglut_std.h
+	<windows.h>
+	<OpenGL/gl.h>
+	<OpenGL/glu.h>
+	<GL/gl.h>
+	<GL/glu.h>
+	<stdlib.h>
+
+1429022567 source:/home/41522351876/Área de Trabalho/CG_v2/src/Point.cpp
+	"Point.h"
+	<cmath>
+
+1429040349 source:/home/41522351876/Área de Trabalho/CG_v2/src/Triangle.cpp
+	"Triangle.h"
+	<algorithm>
+	<cmath>
+
+1428437414 source:/home/41522351876/Área de Trabalho/CG_v2/src/01_quad.cpp
+	<stdio.h>
+	<GL/freeglut.h>
+	<cmath>
+	<cstring>
+	"Grid.h"
+
+1428349375 /home/41522351876/Área de Trabalho/CG_v2/include/GL/freeglut.h
+	"freeglut_std.h"
+	"freeglut_ext.h"
+
+1428349375 /home/41522351876/Área de Trabalho/CG_v2/include/GL/freeglut_ext.h
+	<stdarg.h>
+
+1428357351 source:/media/41522351876/SAMSUNG/Dados/Faculdade/CG_v2/src/01_quad.cpp
+	<stdio.h>
+	<GL/freeglut.h>
+	<cmath>
+	<cstring>
+	"Grid.h"
+
+1428349375 /media/41522351876/SAMSUNG/Dados/Faculdade/CG_v2/include/GL/freeglut.h
+	"freeglut_std.h"
+	"freeglut_ext.h"
+
+1428349375 /media/41522351876/SAMSUNG/Dados/Faculdade/CG_v2/include/GL/freeglut_std.h
+	<windows.h>
+	<OpenGL/gl.h>
+	<OpenGL/glu.h>
+	<GL/gl.h>
+	<GL/glu.h>
+	<stdlib.h>
+
+1428349375 /media/41522351876/SAMSUNG/Dados/Faculdade/CG_v2/include/GL/freeglut_ext.h
+	<stdarg.h>
+
+1428349375 /media/41522351876/SAMSUNG/Dados/Faculdade/CG_v2/src/header/Grid.h
+	"Triangle.h"
+
+1428349375 /media/41522351876/SAMSUNG/Dados/Faculdade/CG_v2/src/header/Triangle.h
+	"Point.h"
+
+1428349375 /media/41522351876/SAMSUNG/Dados/Faculdade/CG_v2/src/header/Point.h
+	<GL/glut.h>
+
+1428349375 /media/41522351876/SAMSUNG/Dados/Faculdade/CG_v2/include/GL/glut.h
+	"freeglut_std.h"
+
+1428353432 source:/media/41522351876/SAMSUNG/Dados/Faculdade/CG_v2/src/Grid.cpp
+	"Grid.h"
+	<iostream>
+	<cmath>
+
+1428349375 source:/media/41522351876/SAMSUNG/Dados/Faculdade/CG_v2/src/Point.cpp
+	"Point.h"
+
+1428349375 source:/media/41522351876/SAMSUNG/Dados/Faculdade/CG_v2/src/Triangle.cpp
+	"Triangle.h"
+	<algorithm>
+	<cmath>
+
+1429040522 source:/home/41522351876/Área de Trabalho/CG_v2/src/Trabalho.cpp
+	<stdio.h>
+	<GL/freeglut.h>
+	<cmath>
+	<cstring>
+	<string>
+	"Grid.h"
+

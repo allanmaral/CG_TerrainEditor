@@ -1,0 +1,189 @@
+# depslib dependency file v1.0
+1427724108 source:e:\dropbox\faculdade\cg\src\01_quad.cpp
+	<stdio.h>
+	<GL/glut.h>
+	"Grid.h"
+
+1368290960 e:\dropbox\faculdade\cg\include\gl\glut.h
+	"freeglut_std.h"
+
+1368290960 e:\dropbox\faculdade\cg\include\gl\freeglut_std.h
+	<windows.h>
+	<OpenGL/gl.h>
+	<OpenGL/glu.h>
+	<GL/gl.h>
+	<GL/glu.h>
+	<stdlib.h>
+
+1427408002 source:e:\dropbox\faculdade\cg\src\triangle.cpp
+	"Triangle.h"
+
+1427402186 e:\dropbox\faculdade\cg\src\header\triangle.h
+	"Point.h"
+
+1427408130 e:\dropbox\faculdade\cg\src\header\point.h
+	<GL/glut.h>
+
+1427723349 source:e:\dropbox\faculdade\cg\src\point.cpp
+	"Point.h"
+
+1427408066 e:\dropbox\faculdade\cg\src\header\grid.h
+	"Triangle.h"
+
+1427408312 source:e:\dropbox\faculdade\cg\src\grid.cpp
+	"Grid.h"
+	<iostream>
+	<cmath>
+
+1427759121 source:e:\dropbox\faculdade\cg_v2\src\01_quad.cpp
+	<stdio.h>
+	<GL/glut.h>
+	<cmath>
+	"Grid.h"
+
+1368290960 e:\dropbox\faculdade\cg_v2\include\gl\glut.h
+	"freeglut_std.h"
+
+1368290960 e:\dropbox\faculdade\cg_v2\include\gl\freeglut_std.h
+	<windows.h>
+	<OpenGL/gl.h>
+	<OpenGL/glu.h>
+	<GL/gl.h>
+	<GL/glu.h>
+	<stdlib.h>
+
+1427755339 e:\dropbox\faculdade\cg_v2\src\header\grid.h
+	"Triangle.h"
+
+1427402186 e:\dropbox\faculdade\cg_v2\src\header\triangle.h
+	"Point.h"
+
+1427754161 e:\dropbox\faculdade\cg_v2\src\header\point.h
+	<GL/glut.h>
+
+1427759280 source:e:\dropbox\faculdade\cg_v2\src\grid.cpp
+	"Grid.h"
+	<iostream>
+	<cmath>
+
+1427754369 source:e:\dropbox\faculdade\cg_v2\src\point.cpp
+	"Point.h"
+
+1427771826 source:e:\dropbox\faculdade\cg_v2\src\triangle.cpp
+	"Triangle.h"
+	<algorithm>
+	<cmath>
+
+1428357351 source:g:\dados\faculdade\cg_v2\src\01_quad.cpp
+	<stdio.h>
+	<GL/freeglut.h>
+	<cmath>
+	<cstring>
+	"Grid.h"
+
+1428349375 g:\dados\faculdade\cg_v2\include\gl\freeglut.h
+	"freeglut_std.h"
+	"freeglut_ext.h"
+
+1428349375 g:\dados\faculdade\cg_v2\include\gl\freeglut_std.h
+	<windows.h>
+	<OpenGL/gl.h>
+	<OpenGL/glu.h>
+	<GL/gl.h>
+	<GL/glu.h>
+	<stdlib.h>
+
+1428349375 g:\dados\faculdade\cg_v2\include\gl\freeglut_ext.h
+	<stdarg.h>
+
+1429040618 g:\dados\faculdade\cg_v2\src\header\grid.h
+	"Triangle.h"
+	"Point.h"
+
+1428609956 g:\dados\faculdade\cg_v2\src\header\triangle.h
+	"Point.h"
+
+1429043478 g:\dados\faculdade\cg_v2\src\header\point.h
+	<GL/glut.h>
+
+1428349375 g:\dados\faculdade\cg_v2\include\gl\glut.h
+	"freeglut_std.h"
+
+1429040579 source:g:\dados\faculdade\cg_v2\src\grid.cpp
+	"Grid.h"
+	<iostream>
+	<cmath>
+
+1429040725 source:g:\dados\faculdade\cg_v2\src\point.cpp
+	"Point.h"
+	<cmath>
+
+1429040349 source:g:\dados\faculdade\cg_v2\src\triangle.cpp
+	"Triangle.h"
+	<algorithm>
+	<cmath>
+
+1430873120 source:g:\dados\faculdade\cg_v2\src\trabalho.cpp
+	<stdio.h>
+	<GL/freeglut.h>
+	<cmath>
+	<cstring>
+	<string>
+	"Grid.h"
+
+1428590713 source:g:\dados\faculdade\cg_v2\src\12_iluminacao_simples.cpp
+	<GL/glut.h>
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+
+1429040579 source:f:\dados\faculdade\cg_v2\src\grid.cpp
+	"Grid.h"
+	<iostream>
+	<cmath>
+
+1429040618 f:\dados\faculdade\cg_v2\src\header\grid.h
+	"Triangle.h"
+	"Point.h"
+
+1428609956 f:\dados\faculdade\cg_v2\src\header\triangle.h
+	"Point.h"
+
+1429040602 f:\dados\faculdade\cg_v2\src\header\point.h
+	<GL/glut.h>
+
+1428349375 f:\dados\faculdade\cg_v2\include\gl\glut.h
+	"freeglut_std.h"
+
+1428349375 f:\dados\faculdade\cg_v2\include\gl\freeglut_std.h
+	<windows.h>
+	<OpenGL/gl.h>
+	<OpenGL/glu.h>
+	<GL/gl.h>
+	<GL/glu.h>
+	<stdlib.h>
+
+1429040725 source:f:\dados\faculdade\cg_v2\src\point.cpp
+	"Point.h"
+	<cmath>
+
+1429040522 source:f:\dados\faculdade\cg_v2\src\trabalho.cpp
+	<stdio.h>
+	<GL/freeglut.h>
+	<cmath>
+	<cstring>
+	<string>
+	"Grid.h"
+
+1428349375 f:\dados\faculdade\cg_v2\include\gl\freeglut.h
+	"freeglut_std.h"
+	"freeglut_ext.h"
+
+1428349375 f:\dados\faculdade\cg_v2\include\gl\freeglut_ext.h
+	<stdarg.h>
+
+1429040349 source:f:\dados\faculdade\cg_v2\src\triangle.cpp
+	"Triangle.h"
+	<algorithm>
+	<cmath>
+
