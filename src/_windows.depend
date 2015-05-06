@@ -187,3 +187,80 @@
 	<algorithm>
 	<cmath>
 
+1430873553 source:c:\users\user\documents\github\cg_terraineditor\src\grid.cpp
+	"Grid.h"
+	<iostream>
+	<cmath>
+
+1429040618 c:\users\user\documents\github\cg_terraineditor\src\header\grid.h
+	"Triangle.h"
+	"Point.h"
+
+1428609956 c:\users\user\documents\github\cg_terraineditor\src\header\triangle.h
+	"Point.h"
+
+1429043478 c:\users\user\documents\github\cg_terraineditor\src\header\point.h
+	<GL/glut.h>
+
+1428349375 c:\users\user\documents\github\cg_terraineditor\include\gl\glut.h
+	"freeglut_std.h"
+
+1428349375 c:\users\user\documents\github\cg_terraineditor\include\gl\freeglut_std.h
+	<windows.h>
+	<OpenGL/gl.h>
+	<OpenGL/glu.h>
+	<GL/gl.h>
+	<GL/glu.h>
+	<stdlib.h>
+
+1430873346 source:c:\users\user\documents\github\cg_terraineditor\src\point.cpp
+	"Point.h"
+	<cmath>
+
+1430888430 source:c:\users\user\documents\github\cg_terraineditor\src\trabalho.cpp
+	<stdio.h>
+	<GL/glew.h>
+	<GL/freeglut.h>
+	<cmath>
+	<cstring>
+	<string>
+	"Grid.h"
+	"Shader.h"
+
+1428349375 c:\users\user\documents\github\cg_terraineditor\include\gl\freeglut.h
+	"freeglut_std.h"
+	"freeglut_ext.h"
+
+1428349375 c:\users\user\documents\github\cg_terraineditor\include\gl\freeglut_ext.h
+	<stdarg.h>
+
+1429040349 source:c:\users\user\documents\github\cg_terraineditor\src\triangle.cpp
+	"Triangle.h"
+	<algorithm>
+	<cmath>
+
+1430887500 source:c:\users\user\documents\github\cg_terraineditor\src\shader.cpp
+	"Shader.h"
+	<cstring>
+
+1430886135 c:\users\user\documents\github\cg_terraineditor\src\header\shader.h
+	<iostream>
+	<string>
+	<fstream>
+	<sstream>
+	"GL/glew.h"
+
+1428349375 c:\users\user\documents\github\cg_terraineditor\include\gl\glew.h
+	<stddef.h>
+	<inttypes.h>
+	<stdint.h>
+	<inttypes.h>
+	<OpenGL/glu.h>
+	<GL/glu.h>
+
+1430887668 source:c:\users\user\documents\github\cg_terraineditor\src\01_quad.cpp
+	<stdio.h>
+	<GL/glew.h>
+	<GL/glut.h>
+	"Shader.h"
+

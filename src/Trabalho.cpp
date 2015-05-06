@@ -1,10 +1,12 @@
 #include <stdio.h>
+#include <GL/glew.h>
 #include <GL/freeglut.h>
 #include <cmath>
 #include <cstring>
 #include <string>
 
 #include "Grid.h"
+#include "Shader.h"
 
 #define WINDOW_SIZE 500
 #define M_PI 3.141592652
@@ -30,6 +32,8 @@ void mouseMove(int x, int y);
 void reshape(int width, int height);
 void idle();
 void close();
+
+static Shader *shader;
 
 // Controles do mouse
 bool drag = false;  //Mouse sendo precionado
@@ -158,6 +162,10 @@ void init (void)
 {
     // Define a cor do fundo como preto
     glClearColor (0.0, 0.0, 0.0, 1.0);
+
+    glewInit();
+    shader = new Shader("vert.glsl", "frag.glsl");
+    shader->UseShader();
 
     // Ativa o teste de profundidade
     glEnable(GL_DEPTH_TEST);
