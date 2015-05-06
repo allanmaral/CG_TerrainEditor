@@ -1,7 +1,7 @@
 #include "Point.h"
 #include <cmath>
 
-Point::Point(float _x, float _y, float _z) : selected(false), x(_x), y(_y), z(_z)
+Point::Point(float _x, float _y, float _z) : x(_x), y(_y), z(_z), selected(false)
 {
     lastModifier = 0.0;
     neighbors = new Point*[4];
@@ -11,7 +11,7 @@ Point::Point(float _x, float _y, float _z) : selected(false), x(_x), y(_y), z(_z
     }
 }
 
-Point::Point() : selected(false), x(0.0f), y(0.0f), z(0.0f)
+Point::Point() : x(0.0f), y(0.0f), z(0.0f), selected(false)
 {
     neighbors = new Point*[4];
     for(int i = 0; i <4; i++)

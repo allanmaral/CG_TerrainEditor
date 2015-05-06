@@ -14,6 +14,7 @@ public:
     Shader(std::string vertexShader, std::string fragmentShader);
     ~Shader();
     void UseShader();
+    GLuint getUniform(std::string uniformName);
 
 private:
     GLuint ProgramID;

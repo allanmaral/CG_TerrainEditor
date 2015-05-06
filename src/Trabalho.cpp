@@ -19,8 +19,8 @@ enum CONTRUCTION_FUNCTION
     LAST // facilita o loop no controle, não é nescessario saber o numero de opções ou qual a ultima
 };
 char* functionNames[2] = {
-    "Gaussian",
-    "Closest Neighbor"
+    (char*)"Gaussian",
+    (char*)"Closest Neighbor"
 };
 
 

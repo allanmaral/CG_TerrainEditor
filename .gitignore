@@ -1,2 +1,4 @@
 src/01_quad.cpp
 *.o
+*.o
+*.o

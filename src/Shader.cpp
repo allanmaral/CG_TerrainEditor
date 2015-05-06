@@ -64,6 +64,11 @@ void Shader::UseShader()
     glUseProgram(this->ProgramID);
 }
 
+GLuint Shader::getUniform(std::string uniformName)
+{
+    return glGetUniformLocation(this->ProgramID, uniformName.c_str());
+}
+
 GLchar* Shader::ReadFile(std::string filePath)
 {
     std::ifstream in( filePath.c_str(), std::ios::in | std::ios::binary );

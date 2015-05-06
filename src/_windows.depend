@@ -213,11 +213,11 @@
 	<GL/glu.h>
 	<stdlib.h>
 
-1430873346 source:c:\users\user\documents\github\cg_terraineditor\src\point.cpp
+1430920125 source:c:\users\user\documents\github\cg_terraineditor\src\point.cpp
 	"Point.h"
 	<cmath>
 
-1430888430 source:c:\users\user\documents\github\cg_terraineditor\src\trabalho.cpp
+1430917050 source:c:\users\user\documents\github\cg_terraineditor\src\trabalho.cpp
 	<stdio.h>
 	<GL/glew.h>
 	<GL/freeglut.h>
@@ -239,11 +239,11 @@
 	<algorithm>
 	<cmath>
 
-1430887500 source:c:\users\user\documents\github\cg_terraineditor\src\shader.cpp
+1430921007 source:c:\users\user\documents\github\cg_terraineditor\src\shader.cpp
 	"Shader.h"
 	<cstring>
 
-1430886135 c:\users\user\documents\github\cg_terraineditor\src\header\shader.h
+1430920810 c:\users\user\documents\github\cg_terraineditor\src\header\shader.h
 	<iostream>
 	<string>
 	<fstream>
@@ -258,9 +258,19 @@
 	<OpenGL/glu.h>
 	<GL/glu.h>
 
-1430887668 source:c:\users\user\documents\github\cg_terraineditor\src\01_quad.cpp
+1430920042 source:c:\users\user\documents\github\cg_terraineditor\src\01_quad.cpp
 	<stdio.h>
 	<GL/glew.h>
 	<GL/glut.h>
 	"Shader.h"
+	"Texture.h"
+
+1430920712 source:c:\users\user\documents\github\cg_terraineditor\src\texture.cpp
+	"Texture.h"
+
+1430917969 c:\users\user\documents\github\cg_terraineditor\src\header\texture.h
+	<GL/glew.h>
+	<string>
+	<fstream>
+	<iostream>
 

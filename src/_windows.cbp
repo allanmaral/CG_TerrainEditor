@@ -45,10 +45,7 @@
 		<Unit filename="../bin/vert.glsl">
 			<Option virtualFolder="Shaders/" />
 		</Unit>
-		<Unit filename="01_quad.cpp">
-			<Option compile="0" />
-			<Option link="0" />
-		</Unit>
+		<Unit filename="01_quad.cpp" />
 		<Unit filename="Grid.cpp">
 			<Option virtualFolder="src/" />
 		</Unit>
@@ -58,7 +55,13 @@
 		<Unit filename="Shader.cpp">
 			<Option virtualFolder="src/" />
 		</Unit>
-		<Unit filename="Trabalho.cpp" />
+		<Unit filename="Texture.cpp">
+			<Option virtualFolder="src/" />
+		</Unit>
+		<Unit filename="Trabalho.cpp">
+			<Option compile="0" />
+			<Option link="0" />
+		</Unit>
 		<Unit filename="Triangle.cpp">
 			<Option virtualFolder="src/" />
 		</Unit>
@@ -69,6 +72,9 @@
 			<Option virtualFolder="headers/" />
 		</Unit>
 		<Unit filename="header/Shader.h">
+			<Option virtualFolder="headers/" />
+		</Unit>
+		<Unit filename="header/Texture.h">
 			<Option virtualFolder="headers/" />
 		</Unit>
 		<Unit filename="header/Triangle.h">
